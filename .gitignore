@@ -56,3 +56,5 @@ nunit-*.xml
 #visual studio code
 .vs/
 .vscode/
+obj/
+bin/

@@ -18,5 +18,8 @@ namespace TurnosConsultorioMedico.Services.Implementations
         {
             return _medicoRepository.GetAll();
         }
+
+        public Dodin(string){ return dodin}
+
     }
 }
